@@ -7,7 +7,7 @@ Stock Price Data taken from Alphavantage API (https://www.alphavantage.co/)
 
 
 
-Plot 1 = Amazon Hiring History
+Plot 1 = Amazon Stock Price History
 
 
-Plot 2 = Amazon Stock Price
+Plot 2 = Amazon Hiring History
