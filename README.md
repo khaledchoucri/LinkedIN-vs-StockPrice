@@ -4,3 +4,10 @@ Linkedin Data from ThinkNUM (https://us8.mailchimp.com/mctx/click?url=https%3A%2
 
 
 Stock Price Data taken from Alphavantage API (https://www.alphavantage.co/)
+
+
+
+Plot 1 = Amazon Hiring History
+
+
+Plot 2 = Amazon Stock Price
